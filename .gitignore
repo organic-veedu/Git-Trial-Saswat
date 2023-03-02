@@ -1,0 +1,4 @@
+myLogs.log
+// Here we will add the names of  the files which we want to ignore
+*.log
+IskoIgnore/
